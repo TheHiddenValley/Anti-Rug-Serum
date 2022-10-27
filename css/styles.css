@@ -25,6 +25,7 @@ body {
   background-image: url("https://cdn.discordapp.com/attachments/947369326229458944/1035102267642220584/Raijin.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .text-lg {
