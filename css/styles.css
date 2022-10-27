@@ -6,7 +6,7 @@
   --color-warning: #EA8807;
   --color-danger: #E80A0A;
   --color-danger-dark: #ce0909;
-  --bg-image: url("https://cdn.discordapp.com/attachments/947369326229458944/1035102009910624368/Verify3.png");
+  --bg-image: url("https://cdn.discordapp.com/attachments/947369326229458944/1035102267642220584/Raijin.png");
   --spacing: 1rem;
   --spacing-sm: calc(var(--spacing) / 2);
   --border-radius: 10px;
@@ -22,7 +22,7 @@
 
 body {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  background-image: url("https://cdn.discordapp.com/attachments/947369326229458944/1035102009910624368/Verify3.png");
+  background-image: url("https://cdn.discordapp.com/attachments/947369326229458944/1035102267642220584/Raijin.png");
   background-repeat: no-repeat;
   background-size: auto;;
 }
