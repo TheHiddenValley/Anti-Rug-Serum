@@ -22,7 +22,7 @@
 
 body {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  background-image: var(--bg-gradient);
+  background-image: url("https://cdn.discordapp.com/attachments/947332664799674438/956615908170792980/cyberfighter2.png");
 }
 
 .text-lg {
