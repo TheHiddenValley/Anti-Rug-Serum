@@ -143,9 +143,9 @@ function loadNFT(nftID) {
 
         document.querySelector('#nft-details').innerHTML = `
             <div>
-                <img class="mb-4" src="$(https://cdn.discordapp.com/attachments/947369326229458944/1003337272051105863/ezgif.com-gif-maker_6.gif)">
-                <div class="name">("Anti-Rug Serum")</div>
-                <div class="description">("The Anti-Rug Serum was by Hidden Labs as your token to The Hidden Valley.")</div>
+                <img class="mb-4" src="https://cdn.discordapp.com/attachments/947369326229458944/1003337272051105863/ezgif.com-gif-maker_6.gif">
+                <div class="name">Anti-Rug Serum</div>
+                <div class="description">The Anti-Rug Serum was by Hidden Labs as your token to The Hidden Valley.</div>
                 
                 <a href="https://explorer.devnet.sui.io/objects/${nftID}" target="_blank" class="btn btn-primary mt-4">View NFT object</a>
             </div>
