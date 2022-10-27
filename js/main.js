@@ -138,7 +138,15 @@ function loadNFT(nftID) {
         })
     })
     .then(res => res.json())
+    .then(data => {
+        let objectData = data.result.details.data.fields;
 
+        document.querySelector('#nft-details').innerHTML = `
+            <div>
+                <img class="mb-4" src="${objectData.url}">
+                <div class="name">${objectData.name}</div>
+                <div class="description">${objectData.description}</div>
+                
                 <a href="https://explorer.devnet.sui.io/objects/${nftID}" target="_blank" class="btn btn-primary mt-4">View NFT object</a>
             </div>
         `
