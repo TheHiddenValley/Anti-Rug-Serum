@@ -1,7 +1,7 @@
 const DEFAULT_VALUES = {
-    NFT_NAME: "Example NFT",
-    NFT_DESCRIPTION: "Minted at https://3rror404.github.io/sui-nft/",
-    NFT_IMAGE_URL: "https://3rror404.github.io/sui-nft/img/sui-nft-example.jpg"
+    NFT_NAME: "Anti-Rug Serum",
+    NFT_DESCRIPTION: "The Anti-Rug Serum was by Hidden Labs as your token to The Hidden Valley.",
+    NFT_IMAGE_URL: "https://cdn.discordapp.com/attachments/947369326229458944/1003337272051105863/ezgif.com-gif-maker_6.gif"
 }
 const btnConnectWallet = document.querySelector('#btn-connect-wallet');
 const btnCreate = document.querySelector('#btnCreate');
