@@ -6,9 +6,7 @@
   --color-warning: #EA8807;
   --color-danger: #E80A0A;
   --color-danger-dark: #ce0909;
-  --bg-dark: rgba(0,0,0,0.8);
-  --bg-primary: #02aab0;
-  --bg-gradient: linear-gradient(to right, #02aab0, #00cdac);
+  --bg-image: url("https://cdn.discordapp.com/attachments/947369326229458944/985978347773394984/Susanoo.png");
   --spacing: 1rem;
   --spacing-sm: calc(var(--spacing) / 2);
   --border-radius: 10px;
