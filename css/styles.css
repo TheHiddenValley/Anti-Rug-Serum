@@ -6,7 +6,7 @@
   --color-warning: #EA8807;
   --color-danger: #E80A0A;
   --color-danger-dark: #ce0909;
-  --bg-image: url("https://cdn.discordapp.com/attachments/947369326229458944/1035104412839968798/shinigami_2.png");
+  --bg-image: url("https://cdn.discordapp.com/attachments/947369326229458944/1035108257078976563/Picture1.png");
   --spacing: 1rem;
   --spacing-sm: calc(var(--spacing) / 2);
   --border-radius: 10px;
@@ -22,7 +22,7 @@
 
 body {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  background-image: url("https://cdn.discordapp.com/attachments/947369326229458944/1035104412839968798/shinigami_2.png");
+  background-image: url("https://cdn.discordapp.com/attachments/947369326229458944/1035108257078976563/Picture1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
