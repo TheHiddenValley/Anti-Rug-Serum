@@ -1,3 +1,3 @@
-# Minty
+# The Hidden Valley
 
- A minter machine
+ Use to mint your anti-rug serum for FREE!
