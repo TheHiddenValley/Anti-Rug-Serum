@@ -139,7 +139,8 @@ function loadNFT(nftID) {
     })
     .then(res => res.json())
     .then(data => {
-
+        let objectData = data.result.details.data.fields;
+        
         document.querySelector('#nft-details').innerHTML = `
             <div>
                 <img class="mb-4" src="https://cdn.discordapp.com/attachments/947369326229458944/1003337272051105863/ezgif.com-gif-maker_6.gif">
