@@ -139,7 +139,6 @@ function loadNFT(nftID) {
     })
     .then(res => res.json())
     .then(data => {
-        let objectData = data.result.details.data.fields;
 
         document.querySelector('#nft-details').innerHTML = `
             <div>
