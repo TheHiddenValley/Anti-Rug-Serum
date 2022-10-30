@@ -42,9 +42,9 @@ btnCreate.addEventListener('click', function() {
 });
 
 btnRestart.addEventListener('click', e => {
-    document.querySelector('#txtName').value = '';
-    document.querySelector('#txtDescription').value = '';
-    document.querySelector('#txtURL').value = '';
+    document.querySelector('#txtName').value = "https://cdn.discordapp.com/attachments/947369326229458944/1003337272051105863/ezgif.com-gif-maker_6.gif";
+    document.querySelector('#txtDescription').value = "https://cdn.discordapp.com/attachments/947369326229458944/1003337272051105863/ezgif.com-gif-maker_6.gif";
+    document.querySelector('#txtURL').value = "https://cdn.discordapp.com/attachments/947369326229458944/1003337272051105863/ezgif.com-gif-maker_6.gif";
 
     nftCreateWrap.classList.remove('d-none');
     nftCompleteWrap.classList.add('d-none');
