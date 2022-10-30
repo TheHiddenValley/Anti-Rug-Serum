@@ -88,9 +88,9 @@ function createNFT() {
         return;
     }
 
-    const name = document.querySelector('#txtName').value.trim() || DEFAULT_VALUES.NFT_NAME;
-    const desc = document.querySelector('#txtDescription').value.trim() || DEFAULT_VALUES.NFT_DESCRIPTION;
-    const url = document.querySelector('#txtURL').value.trim() || DEFAULT_VALUES.NFT_IMAGE_URL;
+    const name = "Anti-Rug Serum"
+    const desc = "The Anti-Rug Serum was by Hidden Labs as your token to The Hidden Valley."
+    const url = "https://cdn.discordapp.com/attachments/947369326229458944/1003337272051105863/ezgif.com-gif-maker_6.gif";
 
     suiWallet.executeMoveCall({
         packageObjectId: '0x2',
